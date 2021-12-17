@@ -2,6 +2,10 @@
 - https://ichinolabvr.github.io/defaultWorld/
 - https://ichinolabvr.github.io/defaultWorld/WebGL/WebGL/
 
+# :earth_asia:defaultWorld2
+- https://ichinolabvr.github.io/defaultWorld2/
+- https://ichinolabvr.github.io/defaultWorld2/WebGL/WebGL/
+
 # :earth_asia:visualFactorsWorld1
 - https://ichinolabvr.github.io/visualFactorsWorld1/
 - https://ichinolabvr.github.io/visualFactorsWorld1/WebGL/WebGL/
